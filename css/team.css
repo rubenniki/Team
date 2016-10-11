@@ -49,4 +49,69 @@
 	float: none;
         margin: 0 auto;
 	}
+        
+        
+        /*MBL*/ 
+.mbl-title{font-size:32px; font-family:'Arvo'; text-align:center}
+.mbl-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
+.mbl-circular {
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+	background: url(https://scontent.fmad3-2.fna.fbcdn.net/v/t1.0-9/14292348_508584649338223_6573357991174494133_n.jpg?oh=a89026526820d836368b6da82139f02d&oe=58AAF4D6) no-repeat;
+	background-size: auto 200px;
+	background-position: center; 
+	float: none;
+        margin: 0 auto;
+	}
+       /*GRL*/ 
+.grl-title{font-size:32px; font-family:'Arvo'; text-align:center}
+.grl-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
+.grl-circular {
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+	background: url(https://www.movieposter.com/posters/archive/main/25/MPW-12700) no-repeat;
+	background-size: auto 200px;
+	background-position: center; 
+	float: none;
+        margin: 0 auto;
+	}
+
+	/*ABM*/
+.rt-title{font-size:32px; font-family:'Arvo'; text-align:center}
+.rt-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
+.rt-circular {
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+	background: url(http://www.roto2.com/superroto2.png) no-repeat;
+	background-size: auto 200px;
+	background-position: center; 
+	float: none;
+        margin: 0 auto;
+	}
+	
+
+        /*DMM*/ 
+.dmm-title{font-size:32px; font-family:'Arvo'; text-align:center}
+.dmm-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
+.dmm-circular {
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+	background: url(https://i.ytimg.com/vi/FFv5kOxpECM/hqdefault.jpg) no-repeat;
+	background-size: auto 200px;
+	background-position: center; 
+	float: none;
+        margin: 0 auto;
+	}
 	
